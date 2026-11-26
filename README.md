@@ -1,6 +1,6 @@
 # PulseBar
 
-A lightweight, minimalist, always-on-top network speed meter for Windows. Built with Python and `tkinter` to keep memory usage ultra-low while showing real-time upload speed, download speed, ping latency, and local IP address in a compact dark overlay.
+A lightweight, minimalist, always-on-top network speed meter for Windows. Built with Python and `tkinter` to keep memory usage ultra-low while showing real-time upload speed, download speed, ping latency, and Public IP address in a compact dark overlay.
 
 ## Features
 
